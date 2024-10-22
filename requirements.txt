@@ -5,5 +5,5 @@ scipy
 matplotlib
 plotly
 
-gcsfs==x.x.x
+gcsfs
 st-files-connection
