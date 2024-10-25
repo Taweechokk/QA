@@ -126,7 +126,7 @@ if 'original_dataframe' not in st.session_state:
     save_to_history(st.session_state.original_dataframe)
 
 # Set up the Streamlit app layout
-st.set_page_config(layout="wide")
+# st.set_page_config(layout="wide")
 st.sidebar.title("Navigation")
 
 if "page" not in st.session_state:
